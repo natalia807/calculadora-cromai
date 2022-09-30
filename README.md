@@ -20,7 +20,7 @@
 
 Clone o repositório com o link: 
 ```
-https://github.com/suphessel/case-cromai.git
+https://github.com/natalia807/calculadora-cromai
 ```
 Instale as dependências com :
 ```
